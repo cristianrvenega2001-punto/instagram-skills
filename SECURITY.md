@@ -17,9 +17,8 @@ instruction that could be abused for prompt injection, a script that
 mishandles credentials, or an unsafe command pattern), please report it
 privately:
 
-- **Preferred:** open a private report via
-  [GitHub Security Advisories](https://github.com/sergebulaev/instagram-skills/security/advisories/new)
-- **Alternative:** email `s@bulaev.org` with subject `[SECURITY] instagram-skills`
+- Open a private report via
+  [GitHub Security Advisories](https://github.com/cristianrvenega2001-punto/instagram-skills/security/advisories/new)
 
 Please include:
 

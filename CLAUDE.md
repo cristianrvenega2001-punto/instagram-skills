@@ -32,8 +32,8 @@ otherwise.
 
 ## Commits
 
-- Primary author **must** be Sergey: every `git commit` needs
-  `--author="Sergey Bulaev <s@bulaev.org>"`. The harness defaults to the Claude
+- Primary author **must** be Cristian (owner of this fork): every `git commit`
+  needs `--author="Cristian <251223049+cristianrvenega2001-punto@users.noreply.github.com>"`. The harness defaults to the Claude
   identity if you forget; verify with `git log -1 --format='%an <%ae>'` before
   pushing.
 - Co-author trailer (`Co-Authored-By: Claude ...`) is fine and welcomed.
