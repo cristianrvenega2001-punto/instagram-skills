@@ -31,8 +31,8 @@ making changes. Conventions here are mandatory unless the user asks otherwise.
 
 ## Commits
 
-- Primary author **must** be Sergey: every `git commit` needs
-  `--author="Sergey Bulaev <s@bulaev.org>"`. Verify with
+- Primary author **must** be Cristian (owner of this fork): every `git commit`
+  needs `--author="Cristian <251223049+cristianrvenega2001-punto@users.noreply.github.com>"`. Verify with
   `git log -1 --format='%an <%ae>'` before pushing.
 - Co-author trailers are fine when appropriate.
 - Verify locally before push: build never breaks, no broken refs in `SKILL.md`,
